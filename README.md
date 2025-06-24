@@ -1,12 +1,49 @@
-# 👋 Hi, I'm Austyn Nguyen
+# 👋 Hi there, I'm Austyn Nguyen!
 
-I'm a Computer Science major at the University of Michigan – Ann Arbor with interests in Entreprenuership, Business, and Economics. I earned two Associate’s degrees before finishing high school at Howard Community College, and I’m on track to finish my bachelor’s in 3 years. I’m currently studying abroad at Yonsei University in Seoul to explore how culture influences tech—from digital infrastructure to how people interact with machines.
+Welcome to my corner of GitHub! I’m currently a Computer Science major at the University of Michigan – Ann Arbor, where I’m exploring everything from systems programming and machine learning to human-computer interaction and finance. I’m passionate about building technologies that are intelligent, user-centered, and globally respectful.
 
-As a first-generation college student and a proud Vietnamese American, I care about making technology that’s respectful, accessible, and human. My cultural values—especially filial piety—taught me the importance of empathy and responsibility, which I try to reflect in everything I build.
+---
 
-Beyond code, I’m a classically trained violist who believes that creativity and structure go hand in hand. Whether I’m playing chamber music or debugging software, I’m drawn to patterns and people.
+## 📘 About Me
 
-Lately, I’ve been curious about how different countries—like South Korea—approach urban design, esports, privacy, and public tech. Why doesn’t Korea use Google Maps? Why do social robots feel more common here than in the U.S.? I’m here to learn, ask questions, and build with intention.
+I'm a curious technologist who enjoys the intersection of hardware and software, especially when it helps solve real-world problems. From prototyping a voice-controlled home assistant wristband to developing data pipelines for clinical research, I’m always looking for ways to build practical, high-impact solutions.
+
+I’m also fascinated by how culture and context shape the way we design and interact with technology. With roots in Vietnamese traditions and a strong interest in international collaboration, I hope to bridge technical innovation with cultural empathy.
+
+---
+
+## 💼 Previous Roles
+
+I've had the opportunity to work in a variety of technical roles across research, government, healthcare, and industry:
+
+- **Information Researcher @ University of Maryland, Baltimore County (UMBC)** 
+- **Software Engineering Intern @ National Institute of Standards and Technology (NIST)**  
+- **Data Engineering Intern @ Michigan Medicine (University of Michigan)**  
+- **Data Analyst Intern @ The Chemours Company**  
+
+---
+
+## 🎻 Music Background
+
+I started playing viola in 5th grade and never stopped. Over the years, music became both a creative outlet and a discipline that shaped how I approach problem-solving and collaboration.
+
+Now entering my **second year of college**, I still play regularly and continue to refine my technique and expression. I also had the privilege of studying under **Kenneth Goldstein** of the **Baltimore Symphony Orchestra** for three years prior to coming to university, whose guidance was instrumental in my growth as a musician.
+
+## 🎻 Senior Recital
+
+Click the thumbnail below to watch my senior viola recital, a culmination of years of study and dedication under Goldstein.
+
+[![Senior Recital](https://img.youtube.com/vi/F4PH74bNHCI/maxresdefault.jpg)](https://www.youtube.com/watch?v=F4PH74bNHCI)
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out or explore some of my work:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/austyn-an-nguyen)
+- 📬 Email: austynan@umich.edu
+- 📄 [View my resume](./resume.pdf) — available directly in this repository
+
 
 Thanks for stopping by!
-
