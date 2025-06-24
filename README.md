@@ -19,7 +19,9 @@ I've had the opportunity to work in a variety of technical roles across research
 - **Information Researcher @ University of Maryland, Baltimore County (UMBC)** 
 - **Software Engineering Intern @ National Institute of Standards and Technology (NIST)**  
 - **Data Engineering Intern @ Michigan Medicine (University of Michigan)**  
-- **Data Analyst Intern @ The Chemours Company**  
+- **Data Analyst Intern @ The Chemours Company**
+
+Find out more about my time in these roles via my LinkedIn down below!
 
 ---
 
@@ -27,7 +29,7 @@ I've had the opportunity to work in a variety of technical roles across research
 
 I started playing viola in 5th grade and never stopped. Over the years, music became both a creative outlet and a discipline that shaped how I approach problem-solving and collaboration.
 
-Now entering my **second year of college**, I still play regularly and continue to refine my technique and expression. I also had the privilege of studying under **Kenneth Goldstein** of the **Baltimore Symphony Orchestra** for three years prior to coming to university, whose guidance was instrumental in my growth as a musician.
+Now entering my **second year of college**, I still play regularly and continue to refine my technique and expression through formal private lessons with SMTD faculty and the Michigan Pops Orchestra. I also had the privilege of studying under **Kenneth Goldstein** of the **Baltimore Symphony Orchestra** for three years prior to coming to university, whose guidance was instrumental in my growth as a musician.
 
 ## 🎻 Senior Recital
 
@@ -43,7 +45,7 @@ Feel free to reach out or explore some of my work:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/austyn-an-nguyen)
 - 📬 Email: austynan@umich.edu
-- 📄 [View my resume](./resume.pdf) — available directly in this repository
+- 📄 [View my resume](./resume.pdf)
 
 
 Thanks for stopping by!
