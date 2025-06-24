@@ -45,7 +45,7 @@ Feel free to reach out or explore some of my work:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/austyn-an-nguyen)
 - 📬 Email: austynan@umich.edu
-- 📄 [View my resume](./resume.pdf)
+- 📄 [View my resume](Resume/resume.pdf)
 
 
 Thanks for stopping by!
