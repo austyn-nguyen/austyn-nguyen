@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Austyn Nguyen!
 
-Welcome to my corner of GitHub! I’m currently a Computer Science major at the University of Michigan – Ann Arbor, where I’m exploring everything from systems programming and machine learning to human-computer interaction and finance. I’m passionate about building technologies that are intelligent, user-centered, and globally respectful.
+Welcome to my corner of GitHub! I’m currently a Computer Science major at the University of Michigan – Ann Arbor, where I’m exploring everything from systems programming and machine learning to accounting and finance. I’m passionate about building technologies that are intelligent, user-centered, and globally respectful.
 
 ---
 
 ## 📘 About Me
 
-I'm a curious technologist who enjoys the intersection of hardware and software, especially when it helps solve real-world problems. From prototyping a voice-controlled home assistant wristband to developing data pipelines for clinical research, I’m always looking for ways to build practical, high-impact solutions.
+I'm a curious technologist who loves building at the intersection of hardware, software, and real-world impact. Whether it's prototyping a voice-controlled home assistant wristband or designing data pipelines for clinical research, I'm always exploring ways to turn ideas into practical, high-impact solutions. Lately, I've been especially interested in how tech can drive smarter decisions in business and finance.
 
 I’m also fascinated by how culture and context shape the way we design and interact with technology. With roots in Vietnamese traditions and a strong interest in international collaboration, I hope to bridge technical innovation with cultural empathy.
 
