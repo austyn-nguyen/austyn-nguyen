@@ -1,0 +1,169 @@
+% Resume for Austyn Nguyen using Aras Gungore's LaTeX Template
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{hyphenat}
+\usepackage{fontawesome}
+\usepackage[T1]{fontenc}
+\pdfgentounicode=1
+
+% Adjust margins (middle ground)
+\addtolength{\oddsidemargin}{-0.625in}
+\addtolength{\evensidemargin}{-0.625in}
+\addtolength{\textwidth}{1.25in}
+\addtolength{\topmargin}{-.6in}
+\addtolength{\textheight}{1.2in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Custom commands
+\newcommand{\resumeItem}[1]{\item[\textopenbullet]\small{#1 \vspace{-2pt}}}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+  \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeEducationHeading}[6]{
+  \vspace{-2pt}\item
+  \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+    \textit{\small#5} & \textit{\small #6} \\
+  \end{tabular*}\vspace{-5pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+  \vspace{-2pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \small#1 & #2 \\
+  \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]} 
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}} 
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.2in, label=\textopenbullet]} 
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%---------- HEADING ----------
+\begin{center}
+  \textbf{\Huge \scshape Austyn Nguyen} \\ \vspace{3pt}
+  \small
+  \faEnvelope \hspace{.5pt} \href{mailto:austynan@umich.edu}{austynan@umich.edu}
+  $|$
+  \faLinkedinSquare \hspace{.5pt} \href{https://www.linkedin.com/in/austyn-an-nguyen}{linkedin.com/in/austyn-an-nguyen}
+  $|$
+  \faGithub \hspace{.5pt} \href{https://github.com/austyn-nguyen}{github.com/austyn-nguyen}
+  $|$
+  \faMapMarker \hspace{.5pt} Ann Arbor, MI
+\end{center}
+
+%----------- EDUCATION -----------
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {University of Michigan -- Ann Arbor}{Ann Arbor, MI}
+  {B.S.E. in Computer Science, B.S. in Economics; Minor in Entrepreneurship; \textbf{GPA: 3.41/4.00}}{Apr 2027}
+  \resumeItemListStart
+    \resumeItem{Coursework: Data Structures/Algorithms, Computer Organization, Digital Logic Design, Probability \& Statistics}
+    \resumeItem{Study Abroad: Yonsei University, Seoul, South Korea}
+\resumeItemListEnd
+
+  \resumeSubheading
+    {Howard Community College}{Columbia, MD}
+    {A.A. in Computer Science and General Studies (STEM); \textbf{GPA: 4.00/4.00}}{May 2024}
+    \resumeItemListStart
+        \resumeItem{Honors: Phi Theta Kappa, Frederick K. Schoenbrodt Scholar, Summa Cum Laude}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%----------- SKILLS & TECHNICAL TOOLS -----------
+\section{Skills \& Technical Tools}
+\resumeSubHeadingListStart
+  \item{
+    \textbf{Languages:} Python, Java, C, C++, Assembly, Verilog, SQL, MATLAB, JavaScript, HTML/CSS \\
+    \textbf{Technologies:} Git, Power BI, PowerApps, Power Automate, Azure, Fabric, DevOps, SharePoint, Excel, Pandas, Numpy, Matplotlib, Jupyter, Linux, MacOS, Windows
+  }
+\resumeSubHeadingListEnd
+
+%----------- EXPERIENCE -----------
+\section{Experience}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {The Chemours Company}{Wilmington, DE}
+    {Data Analyst Intern}{May 2025 -- Present}
+    \resumeItemListStart
+      \resumeItem{Designed and deployed interactive dashboards in Power BI and SQL to surface trends in S\&P Global trade data, directly supporting strategic decision-making across supply chain and commercial teams.}
+      \resumeItem{Collaborated cross-functionally with business leaders to align KPIs with trade strategy, applying data modeling and DAX to drive actionable insights that informed key planning processes.}
+      \resumeItem{Spearheaded integration of GitHub with Power BI workflows; led training sessions that institutionalized analytics best practices across business and IT units.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+  {Michigan Medicine: Watson Lab}{Ann Arbor, MI}
+  {Research Software Engineer}{Jan 2025 -- May 2025}
+  \resumeItemListStart
+    \resumeItem{Translated complex neural signal processing tasks into streamlined, reusable shell and MATLAB scripts—empowering PhD researchers to handle large-scale data without deep coding knowledge.}
+    \resumeItem{Leveraged the open-source Spike2 API to organize 60-channel, 48-hour recordings into structured formats for downstream analysis and visualization, bridging neuroscience workflows with scalable automation.}
+    \resumeItem{Improved team efficiency by abstracting technical steps into digestible, reproducible processes—ensuring insights from 2TB+ of electrophysiological data could be accessed and interpreted across disciplines.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {National Institute of Standards and Technology (NIST)}{Gaithersburg, MD}
+  {Software Engineering Intern}{May 2024 -- Aug 2024}
+  \resumeItemListStart
+    \resumeItem{Streamlined and automated the benchmark evaluation workflow for materials science simulations, cutting manual effort by 80\% and enabling researchers to scale model submissions with minimal oversight.}
+    \resumeItem{Built a GitHub Actions–based processing framework to validate and submit simulation results across 8+ open benchmarks, enhancing transparency, reproducibility, and research throughput.}
+    \resumeItem{Contributed to improving data governance and technical documentation practices, supporting inter-institutional collaboration and long-term data standardization.}
+  \resumeItemListEnd
+
+
+\resumeSubHeadingListEnd
+
+%----------- PROJECTS -----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+  \resumeProjectHeading
+      {\textbf{FAIR Metadata for Scientific Reproducibility} | \textit{Python, Jupyter, Functional Programming}}{\textit{Summer 2024}}
+      \resumeItemListStart
+        \resumeItem{Improved data reproducibility and cross-institutional collaboration in materials science by standardizing metadata using the RO-Crate protocol and proposing extensions to bridge gaps in benchmark semantics and tabular simulation data.}
+      \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{The WiLi Watch (Winner @ MHacks)} | \textit{Python, LLM APIs, Arduino, Whisper, OrangePi}}{\textit{Fall 2024}}
+    \resumeItemListStart
+      \resumeItem{Led development of a wearable smart home controller for users with limited mobility, integrating speech and tactile interfaces with real-time AI processing via cloud-based LLMs.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%----------- ACTIVITIES & INTERESTS -----------
+\section{Additional}
+\resumeSubHeadingListStart
+  \item{
+    \textbf{Activities:} Perot Jain TechLab: Electrification, Michigan Pops Orchestra, Campus Symphony Orchestra, Zeta Pi Technical Fraternity, UM Autonomous Robotics Vehicles, First Generation Students \\
+  }
+\resumeSubHeadingListEnd
+
+\end{document}
