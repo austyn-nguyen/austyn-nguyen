@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Austyn Nguyen!
 
-Welcome to my corner of GitHub! I’m currently a Computer Science major at the University of Michigan – Ann Arbor, where I’m exploring everything from systems programming and machine learning to human-computer interaction and finance. I’m passionate about building technologies that are intelligent, user-centered, and globally respectful.
+Welcome to my corner of GitHub! I’m currently a Computer Science and Economics major at the University of Michigan – Ann Arbor, where I’m exploring everything from machine learning management and strategy consulting. I’m passionate about leveraging technologies to assist businesses make intelligent data-driven decisions.
 
 ---
 
@@ -16,10 +16,10 @@ I’m also fascinated by how culture and context shape the way we design and int
 
 I've had the opportunity to work in a variety of technical roles across research, government, healthcare, and industry:
 
-- **Information Researcher @ University of Maryland, Baltimore County (UMBC)** 
-- **Software Engineering Intern @ National Institute of Standards and Technology (NIST)**  
-- **Data Engineering Intern @ Michigan Medicine (University of Michigan)**  
 - **Data Analyst Intern @ The Chemours Company**
+- **Data Engineering Intern @ Michigan Medicine (University of Michigan)**
+- **Software Engineering Intern @ National Institute of Standards and Technology (NIST)**  
+- **Information Researcher @ University of Maryland, Baltimore County (UMBC)** 
 
 Find out more about my time in these roles via my LinkedIn down below!
 
